@@ -1,0 +1,271 @@
+Fine Changelog
+
+****************************
+Version 1.6 (16-08-17)
+- Added author gravatar for blog posts
+
+Version 1.5 (08-08-17)
+- Added contact form element for homepage
+
+Version 1.4 (11-07-17)
+- Added visible edit links in the customizer preview
+
+Version 1.3 (12-04-17)
+- Fixed issue with PHP 7.1 
+- Fixed issue with loading google fonts (used protocol relative link)
+
+Version 1.2 (27-12-16)
+- Fixed allignment issue for submenu in widgets
+
+Version 1.1 (20-10-16)
+- Changes done as per the new WordPress guideline
+- Added Setting to change Menu background color, Menu hover color and Menu text color
+
+Version 1.0.60 (28-04-16)
+- Fixed site font issue
+
+Version 1.0.59 (2-12-15)
+- Fix few minor issues related to customization
+
+Version 1.0.58 (17-07-15)
+- Change in theme customizer as per wordpress.org guidelines
+
+Version 1.0.57 (1-23-15)
+- Fixed conflict between slider free and pro plugin.
+- Added new plugin suggestion.
+
+Version 1.0.56 (11-25-14)
+- Removed theme activation notice.
+- Changed default links for slider.
+
+Version 1.0.55 (11-16-14)
+- Removed cyberchimps_mlu_init() as it has register_post_type() which is plugin-territory functionality.
+- Added sanitization to customizer options.
+- Removed deprecated screen_icon().
+
+Version 1.0.54 (9-24-14)
+- Placeholder fix for IE8/9.
+
+Version 1.0.53 (9-08-14)
+- Added iFeature slider to plugin suggestion list.
+
+Version 1.0.52 (8-22-14)
+- Updated Translations.
+
+Version 1.0.51 (8-08-14)
+- Fixed conflict of footer widgets with other widgets.
+- Responsive fix for uploaded video.
+
+Version 1.0.50 (7-25-14)
+- Layout fixed for multiple rows of footer widget.
+
+Version 1.0.49 (7-18-14)
+- Fixed broken link to CyberChimps logo.
+
+Version 1.0.48 (7-11-14)
+- Replaced logo with text in footer credit link.
+
+Version 1.0.47 (7-04-14)
+- Added option for Instagram Icon.
+
+Version 1.0.46 (6-27-14)
+- Core Translation Updated.
+
+Version 1.0.45 (6-20-14)
+- Code reformatting: Changed spaces to tabs.
+
+Version 1.0.44 (6-13-14)
+- Code reformatted: Changed spaces to tabs.
+
+Version 1.0.43 (6-06-14)
+- Code reformatting: Changed spaces to tabs.
+
+Version 1.0.42 (5-30-14)
+- Fixed casing of CyberChimpsParallax class.
+
+Version 1.0.41 (5-23-14)
+- Updated ugrade text.
+- Removed left sidebar from widget section.
+- Removed "Custom Callout" from sub settings.
+
+Version 1.0.40 (5-16-14)
+- Correct spelling of CyberChimps/CSS.
+- Change text for Google font field.
+- Added cyberchimps_ prefix to couple of functions.
+- Changed CyberChimps logo on theme options page.
+- Changed "alt" text of logo to the site name instead of "logo".
+- Regenerated ".mo" files as they were 0KB each before, hence breaking the translation.
+
+Version 1.0.39 (5-9-14)
+- Fixed W3C validator error issue with IE compatibility meta tags.
+- Fixed missing image error: removed unused function.
+- Added FooBox as recommended plugin.
+
+Version 1.0.38 (5-2-14)
+- Fixed byline toggle issue. 
+
+Version 1.0.37 (4-24-14)
+- Uploading again due to technical problem.
+
+Version 1.0.36 (4-24-14)
+- Added recommendation for clef plugin.
+- Updated translations.
+- Youtube video fixed.
+
+Version 1.0.35 (4-16-14)
+- Changed social font icons to font awesome.
+- Removed unwanted function_exists() conditional wrapper.
+
+Version 1.0.34 (4-9-14)
+-Added upgrade button to the free theme customizer.
+-Fixed Vimeo video responsiveness.
+
+Version 1.0.33 (4-3-14)
+- Added new background option.
+- Site title style fix for smaller screen.
+- Removed wp_register_style(or script) for local css/js files.
+
+Version 1.0.32 (3-27-14)
+- Updated Elements Translation.
+
+Version 1.0.31 (3-21-14)
+- Updated support forum URL.
+- Fixed IE8 compatibility issue.
+
+Version 1.0.30 (3-12-14)
+- Fixed duplicate plugin install notification in option page.
+- Modified "More Themes" page to show up all CyberChimps free theme with option to install/activate right there.
+
+Version 1.0.29 (3-5-14)
+- Fixed conflict between blog post excerpt option and bbpress user profile page.
+- Set up element options defaults for better wp.org preview.
+- Added filter for background default args.
+- HTML Error fix: Added space before menu>li>attribute.
+
+Version 1.0.28 (2-27-14)
+- Updated elements images along with boxes images.
+- Fixed Read more text option.
+- Responsive toggle fix: tweaked full-width-container width.
+- Background option fix.
+- Removed post format icon from page.
+- Updated screenshot.
+- Added byline author.
+- Fixed word wrap.
+
+Version 1.0.27 (2-20-14)
+- Added word-break to body to stop long words breaking out if their container
+
+Version 1.0.26 (2-18-14)
+- Slider is made to be start sliding on page load.
+
+Version 1.0.25 (2-11-14)
+- Updated Translation.
+
+Version 1.0.24 (2-5-14)
+- Fixed multiple thumbnails issue on image attachment page.
+- Fixed image load issue for boxes element.
+- Upsell page tweaked(Font & Text).
+
+Version 1.0.22-1.0.23 (1-27-14)
+- Boxes: Added latest default images and retina versions.
+- Added Danish translation to core.
+- Added hook to set blog layout option default.
+
+Version 1.0.21 (1-21-14)
+- Email icon made not to open a new tab.
+- Removed Twitter bar from default option.
+
+Version 1.0.20 (1-14-14)
+- Changed blog layout option text.
+- Fixed upload button not working issue with child themes.
+
+Version 1.0.19 (1-6-14)
+- Modified Helvetica font-family.
+- Removed translation of a variable.
+
+Version 1.0.18 (12-23-13)
+- Fixed drag and drop font icons on page options.
+- Added metabox field type unfiltered_textarea.
+- Changed underscrore to hyphen in class for portfolio lite element.
+
+Version 1.0.17 (12-16-13)
+- Email and google map icon issue fixed.
+- Social icon issue in IE fixed.
+- Added larger screenshot for WP3.8.
+- Update tags for WP3.8.
+- Updated license.
+
+Version 1.0.16 (12-12-13)
+- Fixed social icon links.
+- Fixed metabox toggle option.
+
+Version 1.0.15 (12-11-13)
+- Added Font-Based Social Icons.
+- Integrated Font Awesome (Bootstrap font).
+- Added retina ready images and style for it.
+- Changed the way of metabox css/js getting enqueued to support child theme.
+
+Version 1.0.14 (12-04-13)
+- Image size fix: Hooked add_image_size to after_setup_theme.
+- Deleted unused images.
+- Added TGM class to recommend responsive Add Ons.
+- Removed Google Analytics option (requested by WordPress).
+- Removed theme redirection (requested by WordPress).
+
+Version 1.0.13 (11-15-13)
+- Added new background image option.
+- Js minification for elements.
+- Translation update.
+
+Version 1.0.12 (11-12-13)
+- Remove skins in customizer
+- Post slides removed
+- Translation domain fix.
+- Sanitization added to few metabox option types.
+- Js minification in core.
+
+Version 1.0.11 (11-7-13)
+- Removed unused code
+
+Version 1.0.10 (11-1-13)
+- Added new metabox class.
+
+Version 1.0.0.9 (10-30-13)
+- Slider lite ID separator change from (-) to(_). Changed affected JS and CSS.
+- Changed readme.md to readme.txt
+- Theme License update to GPL v3.0
+- Updated Font licenses
+
+Version 1.0.0.8 (10-18-13)
+- Container width fix.
+- Added class cc-responsive if responisve design is on.
+
+Version 1.0.0.7 (10-11-13)
+- Changed ID name separator to (_) from (-) for elements/boxes.php
+
+Version 1.0.0.6 (10-4-13)
+- Minified JS.
+- Reformatted code( Replaced spaces with tabs ).
+
+Version 1.0.0.5 (9-27-13)
+- Upsell page: If the listed theme is installed then add a tick mark next to it.
+
+Version 1.0.0.4 (9-20-13)
+- Slider option from post is removed as it was not part of free themes.
+- Fixed google font issue.
+
+Version 1.0.0.3 (9-13-13)
+- Updated README file.
+
+Version 1.0.0.2 (9-6-13)
+- Minified multi media upload.
+- Meta box fix - changed save_post hook to pre_post_update.
+- Wrapped home_url() with esc_url()
+- Removed function_exists() check before add_image_size() call.
+
+Version 1.0.0.1 (8-30-13)
+- Removed new meta-box options due to unresolved bug that affected some users.
+
+Version 1.0.0.0 (08/22/13)
+- Added new class for metabox options.
+-Initial release.
